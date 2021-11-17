@@ -17,5 +17,3 @@ def Fibonacci(n):
 
 x = int(input("Enter n = "))
 print(Fibonacci(x+1))
-
-# This code is contributed by Saket Modi
